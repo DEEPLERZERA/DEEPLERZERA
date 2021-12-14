@@ -6,7 +6,7 @@
 
 Meu email para contato: dani2014games@gmail.com
 
-MEU REPOSITÓRIO JAVA: https://drive.google.com/drive/u/0/folders/1tRKgnWThvpNcC1YObl0VREjWUVw7-VAT
+MEU REPOSITÓRIO JAVA: https://drive.google.com/drive/folders/1tRKgnWThvpNcC1YObl0VREjWUVw7-VAT?usp=sharing
 <!---
 DEEPLERZERA/DEEPLERZERA is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
