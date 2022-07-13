@@ -29,7 +29,7 @@ MEU REPOSITÓRIO JAVA: https://drive.google.com/drive/folders/1tRKgnWThvpNcC1YOb
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
   
-  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/992138168264572952/996571340750475356/download20220702211645.png">
+  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/905511456441765921/996813581309968495/12920190a7262d4205dda4dd4a90ff11.jpg">
 </div>
   
   ##
