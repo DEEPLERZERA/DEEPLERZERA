@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Daniel_Borges_Valentim
-- 👀 I’m interested in Java,SQL,C++,HTML and CSS,C#,PHP,Python,Machine Learning and another things!
+- 👀 I’m interested in Java,SQL,C++,HTML and CSS,C#,PHP,Python,Golang,Machine Learning and another things!
 - 🌱 I’m currently learning Java,SQL,HTML and CSS,PHP,C#,Kotlin,Android Studio,Golang,AWS.
 - 💞️ I’m looking to collaborate on Side Projects and little projects.
 - 📫 How to reach me Call me in Pv.
