@@ -31,6 +31,7 @@ My Linkedin: https://www.linkedin.com/in/daniel-borges-a747b7194/ 📚
 ![Kubernetes](https://img.shields.io/badge/kubernetes-4285F4?style=for-the-badge&logo=kubernetes&logoColor=white)&nbsp;
 ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)&nbsp;
 ![JSON](https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white)&nbsp;
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white)&nbsp;
 
 <img src="https://github.com/DEEPLERZERA/DEEPLERZERA/blob/main/Design%20sem%20nome.png" min-width="300px" max-width="300px" width="300px" align="right" alt="Programador Anime">
 
