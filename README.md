@@ -7,7 +7,8 @@ My email for contact: dani2014games@gmail.com 📩
 
 My Linkedin: https://www.linkedin.com/in/daniel-borges-a747b7194/ 📚
 
-## Hello 🖐🖐, my name is Daniel Borges, i currently work as a back-end software engineer with the Go language, I love innovating and creating new technologies in my spare time! See my repository 🙏.
+<p align="center"> Hello 🖐🖐, my name is <strong>Daniel Borges</strong>, i currently work as a <strong>back-end software engineer</strong> with the Go language, I love innovating and creating new technologies in my spare time! <strong>See my repository</strong> 🙏.</p>&nbsp;
+
 <div align="center"  style="margin-bottom:100px">
   <a href="https://github.com/DEEPLERZERA">
  <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=DEEPLERZERA&theme=radical&mode=weekly" />
