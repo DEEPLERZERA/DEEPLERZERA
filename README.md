@@ -8,10 +8,10 @@ My email for contact: dani2014games@gmail.com 📩
 My Linkedin: https://www.linkedin.com/in/daniel-borges-a747b7194/ 📚
 
 ## Hello 🖐🖐, my name is Daniel Borges, i currently work as a back-end software engineer with the Go language, I love innovating and creating new technologies in my spare time! See my repository 🙏.
-<div align="center">
+<div align="center"  style="margin-bottom:100px">
   <a href="https://github.com/DEEPLERZERA">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DEEPLERZERA&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DEEPLERZERA&layout=compact&langs_count=7&theme=dracula"/>
+ <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=DEEPLERZERA&theme=radical&mode=weekly" />
+ <img width=40% align="center" src="https://github-readme-stats-git-main-DEEPLERZERA.vercel.app/api/top-langs/?username=DEEPLERZERA&show_icons=true&theme=radical&layout=compact" />
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg">
