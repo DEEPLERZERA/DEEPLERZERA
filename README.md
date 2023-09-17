@@ -1,8 +1,4 @@
-- 👋 Hi, I’m @Daniel_Borges_Valentim
-- 👀 I’m interested in Java,SQL,C++,HTML and CSS,C#,PHP,Python,Golang,Machine Learning and another things!
-- 🌱 I’m currently learning Java,SQL,HTML and CSS,PHP,C#,Kotlin,Android Studio,Golang,AWS.
-- 💞️ I’m looking to collaborate on Side Projects and little projects.
-- 📫 How to reach me Call me in Pv.
+Welcome to my profile, here you can see all the personal projects I have carried out throughout my career. I have great experience with the Go language, creating APIS for financial services that will serve a global scope. I currently work at Dock Tech, a Brazilian company who is creating this new technology for the world. Additionally, I have intermediate experience with AWS, building and monitoring EC2 instances, cloudformations, etc. I work with a lot of observability too, for example I apply span traces monitoring in our GO API, using datadog and I can consider that I currently know this subject very well, if you want to talk about it, call me on my personal email below this text. To conclude my summary, I can say that I have great experience with building and planning code infrastructure for GO APIS.
 
 My email for contact: dani2014games@gmail.com
 
@@ -34,9 +30,6 @@ My Linkedin: https://www.linkedin.com/in/daniel-borges-a747b7194/
   ##
  
 <div> 
-  <a href="https://www.youtube.com/channel/UCNUjrpILydNHMMnwJmEAXhA" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-  <a href="https://www.instagram.com/deeplerzera/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- 	<a href="https://www.twitch.tv/deeplerzera123" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
   <a href = "dani2014games@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/daniel-borges-a747b7194/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
