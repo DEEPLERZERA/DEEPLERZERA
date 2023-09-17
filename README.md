@@ -6,7 +6,9 @@ Welcome to my profile, here you can see all the personal projects I have carried
 My email for contact: dani2014games@gmail.com 📩
 
 My Linkedin: https://www.linkedin.com/in/daniel-borges-a747b7194/ 📚
-&nbsp;&nbsp;&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
 
 <p align="center"> Hello 🖐🖐, my name is <strong>Daniel Borges</strong>, i currently work as a <strong>back-end software engineer</strong> with the Go language, I love innovating and creating new technologies in my spare time! <strong>See my repository</strong> 🙏.</p>&nbsp;
 
