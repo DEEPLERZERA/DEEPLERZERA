@@ -4,15 +4,11 @@
 - 💞️ I’m looking to collaborate on Side Projects and little projects.
 - 📫 How to reach me Call me in Pv.
 
-Meu email para contato: dani2014games@gmail.com
+My email for contact: dani2014games@gmail.com
 
-Meu Linkedin: https://www.linkedin.com/in/daniel-borges-a747b7194/
+My Linkedin: https://www.linkedin.com/in/daniel-borges-a747b7194/
 
-MEU REPOSITÓRIO JAVA: https://drive.google.com/drive/folders/1tRKgnWThvpNcC1YObl0VREjWUVw7-VAT?usp=sharing
- 
-
-
-## Ola me Chamo Daniel Borges, mais conhecido como DEEPLERZERA sou desenvolvedor back-end, mas também manjo um pouco de front-end!
+## Hello, my name is Daniel Borges, i currently work as a back-end software engineer with the Go language, I love innovating and creating new technologies in my spare time! See my repository.
 <div align="center">
   <a href="https://github.com/DEEPLERZERA">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DEEPLERZERA&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
