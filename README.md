@@ -14,6 +14,9 @@ My Linkedin: https://www.linkedin.com/in/daniel-borges-a747b7194/ 📚
  <img width=40% align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DEEPLERZERA&show_icons=true&theme=radical&layout=compact" />
 </div>
 <div style="display: inline_block"><br>
+  ## My Skills
+  #### Main Stack:
+
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg">
   <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
   <img align="center" alt="Rafa-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">
