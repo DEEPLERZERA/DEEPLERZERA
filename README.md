@@ -1,10 +1,10 @@
 Welcome to my profile, here you can see all the personal projects I have carried out throughout my career. I have great experience with the Go language, creating APIS for financial services that will serve a global scope. I currently work at Dock Tech, a Brazilian company who is creating this new technology for the world. Additionally, I have intermediate experience with AWS, building and monitoring EC2 instances, cloudformations, etc. I work with a lot of observability too, for example I apply span traces monitoring in our GO API, using datadog and I can consider that I currently know this subject very well, if you want to talk about it, call me on my personal email below this text. To conclude my summary, I can say that I have great experience with building and planning code infrastructure for GO APIS.
 
-My email for contact: dani2014games@gmail.com
+My email for contact: dani2014games@gmail.com 📩
 
-My Linkedin: https://www.linkedin.com/in/daniel-borges-a747b7194/
+My Linkedin: https://www.linkedin.com/in/daniel-borges-a747b7194/ 📚
 
-## Hello, my name is Daniel Borges, i currently work as a back-end software engineer with the Go language, I love innovating and creating new technologies in my spare time! See my repository.
+## Hello 🖐🖐, my name is Daniel Borges, i currently work as a back-end software engineer with the Go language, I love innovating and creating new technologies in my spare time! See my repository 🙏.
 <div align="center">
   <a href="https://github.com/DEEPLERZERA">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DEEPLERZERA&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
