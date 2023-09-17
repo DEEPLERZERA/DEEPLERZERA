@@ -11,7 +11,7 @@ My Linkedin: https://www.linkedin.com/in/daniel-borges-a747b7194/ 📚
 <div align="center"  style="margin-bottom:100px">
   <a href="https://github.com/DEEPLERZERA">
  <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=DEEPLERZERA&theme=radical&mode=weekly" />
- <img width=40% align="center" src="https://github-readme-stats-git-main-DEEPLERZERA.vercel.app/api/top-langs/?username=DEEPLERZERA&show_icons=true&theme=radical&layout=compact" />
+ <img width=40% align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DEEPLERZERA&show_icons=true&theme=radical&layout=compact" />
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg">
