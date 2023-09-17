@@ -24,9 +24,10 @@ My Linkedin: https://www.linkedin.com/in/daniel-borges-a747b7194/ 📚
 
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)&nbsp;
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)&nbsp;
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
 ![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)&nbsp;
+
+<img src="https://github.com/DEEPLERZERA/DEEPLERZERA/blob/main/Design%20sem%20nome.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Programador Anime">
+
 
   ##
  
