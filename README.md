@@ -44,6 +44,7 @@ My Linkedin: https://www.linkedin.com/in/daniel-borges-a747b7194/ 📚
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)&nbsp;
 ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white)&nbsp;
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)&nbsp;
+![Python](https://img.shields.io/badge/Python-777BB4?style=for-the-badge&logo=php&logoColor=white)&nbsp;
 
 #### Databases:
 
